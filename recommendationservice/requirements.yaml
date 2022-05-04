@@ -1,5 +1,4 @@
 dependencies:
   - name: recommendationservice
-    version: 0.0.10
-    repository: >-
-      http://artifactory-artifactory.tools:8082/artifactory/generic-local/aminerachyd
+    version: 0.0.15
+    repository: http://artifactory-artifactory.tools:8082/artifactory/generic-local/aminerachyd
