@@ -1,5 +1,4 @@
 dependencies:
   - name: cartservice
-    version: 0.0.5
-    repository: >-
-      http://artifactory-artifactory.tools:8082/artifactory/generic-local/aminerachyd
+    version: 0.0.9
+    repository: http://artifactory-artifactory.tools:8082/artifactory/generic-local/aminerachyd
