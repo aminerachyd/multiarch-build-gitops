@@ -1,0 +1,4 @@
+apiVersion: v2
+version: 0.1.0
+name: cartservice
+description: Chart to configure ArgoCD with the cartservice project and its applications
