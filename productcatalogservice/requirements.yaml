@@ -1,4 +1,4 @@
 dependencies:
   - name: productcatalogservice
-    version: 0.0.14
+    version: 0.0.16
     repository: http://artifactory.apps.onyx.edu.ihost.com/artifactory/generic-local/aminerachyd
