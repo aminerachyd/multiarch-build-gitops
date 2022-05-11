@@ -1,3 +1,0 @@
-global: {}
-recommendationservice:
-  replicaCount: 1

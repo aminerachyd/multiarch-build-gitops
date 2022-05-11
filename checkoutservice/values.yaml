@@ -1,3 +1,0 @@
-global: {}
-checkoutservice:
-  replicaCount: 1

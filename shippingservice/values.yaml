@@ -1,3 +1,0 @@
-global: {}
-shippingservice:
-  replicaCount: 1

@@ -1,3 +1,0 @@
-global: {}
-productcatalogservice:
-  replicaCount: 1

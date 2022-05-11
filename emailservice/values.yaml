@@ -1,3 +1,0 @@
-global: {}
-emailservice:
-  replicaCount: 1
