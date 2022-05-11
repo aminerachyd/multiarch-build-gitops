@@ -1,4 +1,0 @@
-dependencies:
-  - name: currencyservice
-    version: 0.0.21
-    repository: http://artifactory.apps.onyx.edu.ihost.com/artifactory/generic-local/aminerachyd

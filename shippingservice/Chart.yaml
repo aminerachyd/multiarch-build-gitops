@@ -1,4 +1,0 @@
-apiVersion: v2
-version: 0.1.0
-name: shippingservice
-description: Chart to configure ArgoCD with the shippingservice project and its applications

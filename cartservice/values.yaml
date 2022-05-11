@@ -1,3 +1,0 @@
-global: {}
-cartservice:
-  replicaCount: 1

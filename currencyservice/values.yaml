@@ -1,3 +1,0 @@
-global: {}
-currencyservice:
-  replicaCount: 1
