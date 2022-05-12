@@ -1,0 +1,5 @@
+dependencies:
+  - name: paymentservice
+    version: 0.0.10
+    repository: >-
+      http://artifactory.apps.onyx.edu.ihost.com/artifactory/generic-local/aminerachyd
