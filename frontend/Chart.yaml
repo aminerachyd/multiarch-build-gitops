@@ -1,0 +1,4 @@
+apiVersion: v2
+version: 0.1.0
+name: frontend
+description: Chart to configure ArgoCD with the frontend project and its applications
