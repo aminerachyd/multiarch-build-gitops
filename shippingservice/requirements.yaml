@@ -1,4 +1,4 @@
 dependencies:
   - name: shippingservice
-    version: 0.0.13
+    version: 0.0.14
     repository: http://artifactory.apps.onyx.edu.ihost.com/artifactory/generic-local/aminerachyd
