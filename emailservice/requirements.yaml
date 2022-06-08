@@ -1,4 +1,4 @@
 dependencies:
   - name: emailservice
-    version: 0.0.12
+    version: 0.0.13
     repository: http://artifactory.apps.onyx.edu.ihost.com/artifactory/generic-local/aminerachyd
