@@ -1,4 +1,4 @@
 dependencies:
   - name: frontend
-    version: 0.0.58
+    version: 0.0.59
     repository: http://artifactory.apps.onyx.edu.ihost.com/artifactory/generic-local/aminerachyd
