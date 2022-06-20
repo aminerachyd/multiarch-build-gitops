@@ -1,4 +1,4 @@
 dependencies:
   - name: checkoutservice
-    version: 0.0.17
+    version: 0.0.18
     repository: http://artifactory.apps.onyx.edu.ihost.com/artifactory/generic-local/aminerachyd
